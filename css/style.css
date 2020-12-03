@@ -25,9 +25,7 @@ p {
   text-align: justify;
   padding: 10px 10px 10px;
 }
-body{
-  background-color: black;
-}
+
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
